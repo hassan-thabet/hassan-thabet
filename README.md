@@ -9,6 +9,7 @@
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=hassan-thabet&show_icons=true&theme=radical#gh-dark-mode-only"
 />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassan-thabet&show_icons=true&theme=transparent)
 
 <img src="https://github-readme-stats.vercel.app/api?username=hassan-thabet&show_icons=true" />
 </picture>
