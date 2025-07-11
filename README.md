@@ -27,7 +27,7 @@ Hey There! 👋
 </header>
 
 
-- 💞️ I am Actively looking for a job or internship in Cairo
+- 💞️ I am Actively looking for a job in Cairo
 <br />
 
 
