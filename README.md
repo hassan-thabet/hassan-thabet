@@ -5,7 +5,8 @@ Hey There! 👋
 ------------------------------------------------
 
 - 📫 How to reach me : 
--    E-mail : dev.7assan@gmail.com
+-    E-mail : ade.7assan@gmail.com
+-    E-mail : dev.7assan@outlook.com
 -    Phone Number : 01023668557 
 - <header>
   <div>
