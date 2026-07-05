@@ -1,34 +1,42 @@
 <h1 align="center">Hi there 👋, I'm Hassan Mohamed Ali</h1>
 
 <h3 align="center">
-Flutter Developer | Mobile Applications Developer | Python Developer
+Flutter Developer | Freelance Software Developer | Business Applications Developer
 </h3>
 
 <p align="center">
-  Passionate Software Engineering student and developer interested in building clean, scalable, and useful software using Flutter, Dart, Python, and modern backend tools.
+  I build mobile applications, internal business systems, and custom software solutions for construction companies, real estate developers, and enterprise workflows.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 I’m currently studying **Software Engineering**
-* 📱 I build **mobile applications using Flutter & Dart**
-* 🐍 I also work with **Python**, automation, web scraping, and backend APIs
-* 🚀 Interested in **AI, automation, problem solving, and scalable software systems**
-* 💼 Actively looking for a job opportunity in **Cairo, Egypt**
-* 🧠 Always learning and improving my skills in software development
+I'm a Software Engineer and a freelance software developer specialized in building practical, scalable, and business-focused applications.
+
+I work mainly with **Flutter**, **Dart**, **Supabase**, and **Python**, developing mobile apps, dashboards, admin panels, workflow systems, payroll systems, and internal tools for companies.
+
+My current focus is building software solutions for:
+
+* Construction companies
+* Real estate development companies
+* Enterprise management systems
+* Internal workflow and transaction management
+* Payroll and attendance systems
+* Business automation tools
+
+For previous work, project samples, or business inquiries, feel free to contact me.
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <p align="left">
-  <a href="mailto:ade.7assan@gmail.com">
+  <a href="mailto:[ade.7assan@gmail.com](mailto:ade.7assan@gmail.com)">
     <img src="https://img.shields.io/badge/Gmail-ade.7assan%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <br />
-  <a href="mailto:dev.7assan@outlook.com">
+  <a href="mailto:[dev.7assan@outlook.com](mailto:dev.7assan@outlook.com)">
     <img src="https://img.shields.io/badge/Outlook-dev.7assan%40outlook.com-blue?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook" />
   </a>
 </p>
@@ -50,22 +58,107 @@ Flutter Developer | Mobile Applications Developer | Python Developer
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin,swift,laravel,mysql,firebase,supabase,postman,git,github,bash,vscode,androidstudio,figma&theme=dark" />
-</p>
+### Mobile & Frontend Development
+
+* Flutter
+* Dart
+* GetX State Management
+* Responsive UI
+* Arabic RTL Interfaces
+* Admin Panels
+* Web Dashboards using Flutter Web
+* Desktop-style business interfaces
+* Form-heavy enterprise screens
+* Data tables, filters, pagination, and dashboards
+
+### Backend & Database
+
+* Supabase
+* PostgreSQL
+* Row Level Security
+* Database functions / RPC
+* SQL queries and views
+* Authentication and authorization
+* Storage and file uploads
+* Realtime features
+* REST API integration
+* Firebase basics
+
+### Business Software Experience
+
+* Transaction management systems
+* Workflow engines
+* Approval flows
+* Role-based permissions
+* Department-based access control
+* Payroll systems
+* Attendance and salary calculations
+* Employee management
+* Evaluation and scoring systems
+* Archive and search modules
+* Notification and reminder flows
+* Maintenance mode and forced update systems
+
+### DevOps & Deployment
+
+* Git & GitHub
+* GitHub Actions
+* VPS deployment
+* Ubuntu server basics
+* Nginx reverse proxy
+* SSL setup
+* Self-hosted Supabase
+* Production debugging
+* Error logging and monitoring
+* Uptime Kuma
+* Netdata
+
+### Python & Automation
+
+* Python scripting
+* Automation tools
+* Web scraping
+* Data processing
+* API automation
+* Internal business tools
+* AI-assisted workflows
+
+### Software Engineering
+
+* Clean architecture
+* Modular code structure
+* Debugging and troubleshooting
+* Performance optimization
+* Code refactoring
+* Database design
+* Problem solving
+* Testing and validation
+* Technical documentation
 
 ---
 
-## 🚀 What I Do
+## 🚀 Services I Provide
 
-* Build cross-platform mobile apps with **Flutter**
-* Develop clean and maintainable application architecture
-* Work with APIs, authentication, databases, and backend integrations
-* Create automation scripts and tools using **Python**
-* Debug, troubleshoot, and optimize software performance
-* Solve programming problems and improve algorithmic thinking
+* Custom mobile applications
+* Company internal management systems
+* Construction and real estate software
+* Workflow and transaction tracking systems
+* Payroll and attendance solutions
+* Admin dashboards and control panels
+* Business process automation
+* Supabase backend setup and integration
+* Flutter Web business applications
+* Maintenance, debugging, and system improvements
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,py,django,fastapi,java,kotlin,swift,laravel,mysql,postgresql,firebase,supabase,postman,git,github,bash,linux,nginx,vscode,androidstudio,figma&theme=dark" />
+</p>
 
 ---
 
@@ -73,19 +166,21 @@ Flutter Developer | Mobile Applications Developer | Python Developer
 
 ```dart
 final hassan = Developer(
-  role: 'Flutter Developer',
-  interests: [
-    'Mobile Apps',
-    'Backend APIs',
-    'Automation',
-    'AI Tools',
-    'Clean Architecture',
-    'Problem Solving',
+  role: 'Freelance Software Developer',
+  mainStack: [
+    'Flutter',
+    'Dart',
+    'Supabase',
+    'PostgreSQL',
+    'Python',
   ],
-  currentlyLearning: [
-    'Advanced Flutter',
-    'Backend Development',
-    'Software Engineering Principles',
+  businessDomains: [
+    'Construction Software',
+    'Real Estate Systems',
+    'Enterprise Applications',
+    'Workflow Management',
+    'Payroll Systems',
+    'Business Automation',
   ],
   location: 'Cairo, Egypt',
 );
@@ -152,11 +247,10 @@ final hassan = Developer(
 
 ## 💡 Motto
 
-> Code is not just about solving problems.
-> It is about building solutions that people can actually use.
+> I build software that helps businesses organize work, automate operations, and make better decisions.
 
 ---
 
 <p align="center">
-  Thanks for visiting my profile ❤️
+  For previous work, project samples, or business inquiries, feel free to contact me.
 </p>
