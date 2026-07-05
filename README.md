@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hassan Mohamed Ali</h1>
+<h1 align="center">Hi there 👋, I'm Hassan Thabet</h1>
 
 <h3 align="center">
 Flutter Developer | Freelance Software Developer | Business Applications Developer
